@@ -1,0 +1,7 @@
+---
+title: "corey_s_sparks_web"
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
